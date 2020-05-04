@@ -12,12 +12,10 @@ end
 
 def selection(num)
   if num = 1
-    string = "YUM YUM MUNCH MUNCH MUNCH"
+     puts "YUM YUM MUNCH MUNCH MUNCH"
      elsif num = 2
-    string = "HAM HAM HAM IN MY TUMMY"
-     return string
+     puts "HAM HAM HAM IN MY TUMMY"
 end 
-binding.pry
 end
 
 def runner
