@@ -14,7 +14,6 @@ def selection(num)
      p "YUM YUM MUNCH MUNCH MUNCH"
   elsif num = 2
      p "HAM HAM HAM IN MY TUMMY"
-end 
 end
 
 def runner
